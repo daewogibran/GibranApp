@@ -1,6 +1,6 @@
 # GibranApp
 
-A new Flutter project.
+A new Flutter project Made For Workshop in UNSRI. This app made by Muhammad Gibran Al-Filambany
 
 ## Getting Started
 
